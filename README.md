@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Classical**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **nodejs, react or any api**
+- 💬 Ask me about **JS, Ruby [Ruby-on-Rails], React**
 
 - 📫 How to reach me **contact@cavecraft.fun**
 
