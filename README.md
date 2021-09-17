@@ -9,7 +9,7 @@
 
 - 😀 I’m looking to collaborate on **any backend JavaScript based project**
 
-- I had made a music bot with all premium features named "Classical" [Classical](closed source but the webpage is https://clasicalbot.xyz)
+- I had made a music bot with all premium features named "Classical" [Classical](closed source but the webpage is https://classicalbot.xyz)
 
 - 💬 Ask me about **NodeJS**
 
