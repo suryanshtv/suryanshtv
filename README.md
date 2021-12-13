@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanshxnd24&label=Profile%20views&color=0e75b6&style=flat" alt="suryanshxnd24" /> </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Go Lang**
 
-- 😀 I’m looking to collaborate on **any backend JavaScript based project**
+- 😀 I’m looking to collaborate on **any backend node.js based project**
 
-- 💬 Ask me about **NodeJS**
+- 💬 Ask me about **NodeJS, DevOps or any other language stuff :)**
 
 
 <h3 align="left">Languages and Tools:</h3>
