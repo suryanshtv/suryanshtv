@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go Lang**
 
-- 😀 I’m looking to collaborate on **any backend node.js based project**
+- 😀 I’m looking to collaborate on **any backend javascript (specifically Node.JS) based project**
 
 - 💬 Ask me about **NodeJS, DevOps or any other language stuff :)**
 
