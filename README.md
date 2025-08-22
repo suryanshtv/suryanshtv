@@ -27,7 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryanshtv&show_icons=true&theme=gruvbox&hide_border=true&locale=en&layout=compact" alt="suryanshtv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryanshtv&show_icons=true&theme=gruvbox&locale=en" alt="suryanshtv" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryanshtv&theme=highcontrast" alt="suryanshtv" /></p>
 
