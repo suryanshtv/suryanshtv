@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **GoLang**
 
-- 💬 Ask me about **nodejs, bun**
+- 💬 Ask me about **nodejs, bun, VMs, Kubernetes, Dockers, Cloud**
 
-- 📫 How to reach me **reach.suryansh@icloud.com**
+- 📫 How to reach me **s_ur_yansh@0bject.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
